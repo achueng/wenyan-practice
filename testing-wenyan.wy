@@ -1,0 +1,25 @@
+批曰。Declare an object
+吾有一物。名之曰「靜夜思」。
+批曰。Initiate the population of the object
+其物如是。
+批曰。Define key value pairs
+物之「「作者」」者。言曰「「李白」」。
+物之「「種類」」者。言曰「「五言絕句」」。
+物之「「詩句」」者。言曰「「
+床前明月光，疑似地上霜，舉頭望明月，低頭思故鄉。
+」」。
+批曰。Specify where the object closes
+是謂「靜夜思」之物也。
+
+
+批曰。Declare a variable (data type needs to be specified)
+批曰。string
+吾有一言。曰「「胡言亂語」」。名之曰「甲」。
+批曰。number
+吾有一數。曰五。名之曰「乙」。
+批曰。boolean = true
+吾有一爻。曰陽。名之曰「丁」。
+批曰。boolean = false
+吾有一爻。曰陰。名之曰「丙」。
+
+
